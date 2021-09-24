@@ -68,4 +68,5 @@ No-Reference Hyperspectral Image Quality Assessment via Quality-Sensitive Featur
 
 https://www.researchgate.net/publication/315598259_No-Reference_Hyperspectral_Image_Quality_Assessment_via_Quality-Sensitive_Features_Learning
 
+https://www.biorxiv.org/content/10.1101/611459v1
 
