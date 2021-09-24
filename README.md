@@ -22,7 +22,7 @@ https://digitalcommons.bau.edu.lb/stjournal/vol1/iss2/11/
 https://www.researchgate.net/publication/276972151_Fingerprint_Quality_Assessment_Using_a_No-Reference_Image_Quality_Metric
 
 
-###new application
+# new application
 
 oceanography:
 data: https://www.mosdac.gov.in/node/483/1158616
@@ -32,3 +32,40 @@ Space Applications Centre, ISRO
 
 Oceanographic Time Series images: Ocean Time Series Observations of Changing Marine Ecosystems: An Era of Integration, Synthesis, and Societal Applications
 https://www.frontiersin.org/articles/10.3389/fmars.2019.00393/full
+
+Ocean Color
+https://science.nasa.gov/earth-science/oceanography/living-ocean/ocean-color
+
+Sparse Representation for No-Reference Quality
+Assessment of Satellite Stereo Images
+
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8781939
+
+Quality Assurance of Oceanographic Observations: Standards and Guidance Adopted by an International Partnership
+
+https://www.frontiersin.org/articles/10.3389/fmars.2019.00706/full
+
+Coral Reef Monitoring, Reef Assessment Technologies, and Ecosystem-Based Management
+
+https://www.frontiersin.org/articles/10.3389/fmars.2019.00580/full
+
+Leveraging Automated Image Analysis Tools to Transform Our Capacity to Assess Status and Trends of Coral Reefs
+https://www.frontiersin.org/articles/10.3389/fmars.2019.00222/full
+
+
+Awesome_Underwater_Datasets
+
+https://github.com/xahidbuffon/Awesome_Underwater_Datasets
+
+A Trillion Coral Reef Colors: Deeply Annotated Underwater Hyperspectral Images for Automated Classification and Habitat Mapping
+
+https://www.mdpi.com/2306-5729/5/1/19/htm
+
+Evaluation of change detection techniques for monitoring land-cover changes: A case study in new Burg El-Arab area
+https://www.sciencedirect.com/science/article/pii/S1110016811000421
+
+No-Reference Hyperspectral Image Quality Assessment via Quality-Sensitive Features Learning
+
+https://www.researchgate.net/publication/315598259_No-Reference_Hyperspectral_Image_Quality_Assessment_via_Quality-Sensitive_Features_Learning
+
+
