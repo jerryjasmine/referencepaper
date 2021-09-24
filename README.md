@@ -20,3 +20,15 @@ https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume
 https://digitalcommons.bau.edu.lb/stjournal/vol1/iss2/11/
 
 https://www.researchgate.net/publication/276972151_Fingerprint_Quality_Assessment_Using_a_No-Reference_Image_Quality_Metric
+
+
+###new application
+
+oceanography:
+data: https://www.mosdac.gov.in/node/483/1158616
+
+Meteorological & Oceanographic Satellite Data Archival Centre
+Space Applications Centre, ISRO
+
+Oceanographic Time Series images: Ocean Time Series Observations of Changing Marine Ecosystems: An Era of Integration, Synthesis, and Societal Applications
+https://www.frontiersin.org/articles/10.3389/fmars.2019.00393/full
